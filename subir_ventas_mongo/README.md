@@ -39,3 +39,7 @@ Conectarse a MongoDB (buscar tutoriales de cómo conectarse).
 ## 6. Buscar la base de datos
 
 Buscar la base de datos "consultas gdp" y la colección "CLients", e importar el archivo `.json`.
+
+## 7. Actualizar sheets
+ir a CICLO[ciclo actual]SUBIDO A MONGO y cargar los nuevos registros 
+  >**NOTA:** Dejar una marca al finalde registro 
