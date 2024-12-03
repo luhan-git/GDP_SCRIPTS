@@ -12,7 +12,7 @@ import os
 import logging
 
 ciclo = input("Por favor, ingresa el ciclo actual: ")
-CICLO28= pd.read_excel("VENTAS_SISTEMA.csv")
+CICLO28= pd.read_csv("VENTAS_SISTEMA.csv")
 
 #SEPARAR SOLO LAS COLUMNAS QUE SE USARAN EN MONGO
 
